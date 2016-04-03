@@ -1,0 +1,2 @@
+# autocheck
+network lic check
